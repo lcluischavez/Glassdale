@@ -1,0 +1,44 @@
+body {
+    background-color: darkslategray;
+    box-sizing: border-box;
+}
+
+.connn {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    flex-basis: 33%;
+
+}
+
+.criminal__header {
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    flex-direction: column;
+    padding: 25% 8px;
+    margin: 8px;
+    border: 1px solid;
+}
+
+h3 {
+    color: royalblue;
+    text-align: center;
+}
+
+ul {
+  color: goldenrod;
+  font-weight: bold
+}
+
+button {
+    overflow: scroll;
+}
+
+/* 
+
+.highlightFish{
+    background-color: darkgoldenrod;
+    color: lightgoldenrodyellow;
+}
+
+*/
